@@ -1,0 +1,7 @@
+{
+  "name": "CreatorThumb AI",
+  "description": "A professional-grade AI thumbnail generator for content creators. Generate, edit, and manage high-converting YouTube thumbnails using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
